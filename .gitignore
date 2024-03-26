@@ -482,3 +482,6 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+
+# Do not send .vs folder
+FirstMLExperiment/.vs
